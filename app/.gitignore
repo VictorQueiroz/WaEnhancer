@@ -1,1 +1,6 @@
+# Ignore build output directories that hold the applications.
+/business
+/whatsapp
+
+# Ignore build folder inside this directory.
 /build
